@@ -1,4 +1,4 @@
-#react-native-scrollable-tabs
+# react-native-scrollable-tabs
 
 JavaScript implementation for scrollable tabs in React Native. iOS and Android.
 
