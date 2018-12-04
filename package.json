@@ -1,0 +1,22 @@
+{
+  "name": "react-native-scroll-tabs",
+  "version": "0.0.1",
+  "description": "Scrollable tabs for react-native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukebrandonfarrell/react-native-scroll-tabs.git"
+  },
+  "keywords": [
+    "tabs"
+  ],
+  "author": "Luke Brandon Farrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukebrandonfarrell/react-native-scroll-tabs/issues"
+  },
+  "homepage": "https://github.com/lukebrandonfarrell/react-native-scroll-tabs#readme"
+}
